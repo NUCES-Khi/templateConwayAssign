@@ -1,5 +1,5 @@
 # Assign 02 - Multiprocess Conway Game
-
+|-|-|
 |Name|Id|
 |Add your name here|kYY-xxxx|
 
